@@ -1,0 +1,8 @@
+/META-INF
+/applicationContext-common.xml
+/com
+/hibernate.cfg.xml
+/log4j.properties
+/struts.properties
+/struts.xml
+/xwork-conversion.properties
