@@ -10,6 +10,7 @@
 <center>
 	<img src="<%=request.getContextPath()%>/css/images/load.gif"><br>
 	<p>页面加载中......</p>
+	wait...
 </center>
 </body>
 </html>
